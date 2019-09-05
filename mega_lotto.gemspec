@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["matharo"]
   spec.email         = ["thomas.lawrence@homebrew.co.uk"]
 
-  spec.summary       = %q{Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{Write a longer description or delete this line.}
-  # spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{A ruby gem to generate lottery drawings.}
+  spec.description   = %q{A ruby gem to generate lottery drawings.}
+  spec.homepage      = "Thttps://github.com/matharotheelf/mega_lotto"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   if spec.respond_to?(:metadata)
     spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
-    # spec.metadata["homepage_uri"] = spec.homepage
+    spec.metadata["homepage_uri"] = spec.homepage
     # spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
     # spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
   else
