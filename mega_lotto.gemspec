@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A ruby gem to generate lottery drawings.}
   spec.description   = %q{A ruby gem to generate lottery drawings.}
-  spec.homepage      = "Thttps://github.com/matharotheelf/mega_lotto"
+  spec.homepage      = "https://github.com/matharotheelf/mega_lotto"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
